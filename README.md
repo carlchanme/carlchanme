@@ -30,6 +30,12 @@ I build **smart, frictionless systems** that solve everyday problems using code,
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mycompany_myapp&metric=alert_status)
+![n8n](https://img.shields.io/badge/n8n-Workflow--Automation-brightgreen)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-blue)
+![Gemini](https://img.shields.io/badge/Gemini-AI--Platform-blue)
+![Fish.Audio](https://img.shields.io/badge/Fish--Audio-Smart--Audio--Tech-yellow)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Voice--AI-purple)
 
 ---
 
